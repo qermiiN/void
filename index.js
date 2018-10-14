@@ -143,4 +143,4 @@ message.channel.send(`✅`, {
     ["logo.jpg"]
   })}
 });
-bot.login(process.env.NDk0ODk4MzkyOTkyOTcyODMw.DqRpow.Fmc4NzK7o8_KTkyaykEL4UkE1Ng);
+bot.login(process.env.BOT_TOKEN);
